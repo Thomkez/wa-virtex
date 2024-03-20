@@ -5,7 +5,7 @@ def main():
     try:
         os.mkdir('/sdcard/virus')
     except OSError:
-        print('\nVirtex Maker By NikkiXploit')
+        print('\nVirtex Maker By TheanKeyyzXD')
         print('\nKetik Y bila ingin melanjutkan')
     w = input ('pilih:')
     
